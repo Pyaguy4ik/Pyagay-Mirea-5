@@ -1,5 +1,3 @@
-<img width="969" height="725" alt="image" src="https://github.com/user-attachments/assets/3dd7eb53-1019-4bdf-9f55-7053e0868c66" />## Практическое задание 5
- 
 ## Подключение к PostgreSQL через database/sql. Выполнение простых запросов (INSERT, SELECT)
 
 Студент группы *ЭФМО-02-25 Пягай Даниил Игоревич*
