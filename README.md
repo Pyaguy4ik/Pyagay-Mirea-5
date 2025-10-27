@@ -51,13 +51,10 @@ go get github.com/joho/godotenv
 ## Ожидаемый лог был получен
 
 ### Результаты выполнения проверочный заданий
-![run.go](img/run.go.2.JPG)
+![run.go](img/run.go.JPG)
 
 ### Обновить (статус первого задания меняем с false на true)
 ![update](img/update.JPG)
 
 ### Проверяем изменение
-![run.go.3](img/run.go.3.JPG)
-
-### Полученные результаты
-![Answers](img/Answers.png)
+![run.go.3](img/run.go_3.JPG)
