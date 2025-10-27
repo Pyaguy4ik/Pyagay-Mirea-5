@@ -13,15 +13,15 @@
 
 ## Открываем postgres и создаём базу данных (Linux)
 
-![create_db](img/create_db.png)
+![create_db](img/create_db.JPG)
 
 ### Создаём таблицу
 
-![create_table](img/create_table.png)
+![create_table](img/create_table.JPG)
 
 ### Выполняем быстрый тест
 
-![insert](img/insert.png)
+![insert](img/insert.JPG)
 
 ## Инициализация проекта
 
@@ -34,30 +34,30 @@ go get github.com/joho/godotenv
 
 ### Создаём структуру файлов
 
-![structure](img/structure.png)
+![structure](img/structure.JPG)
 
 ### Содержимое db.go
-![db.go](img/db.go.png)
+![db.go](img/db.go.JPG)
 
 ### Содержимое repository.go
-![repository.go](img/repository.go.png)
+![repository.go](img/repository.go.JPG)
 
 ### Содержимое main.go (фрагмент)
-![main.go](img/main.go(1).png)
-![main.go](img/main.go(2).png)
+![main.go](img/main.go(1).JPG)
+![main.go](img/main.go(2).JPG)
 
 ### Запуск и проверка
-![go.run](img/run.go.png)
+![go.run](img/run.go.JPG)
 ## Ожидаемый лог был получен
 
 ### Результаты выполнения проверочный заданий
-![run.go](img/run.go.2.png)
+![run.go](img/run.go.2.JPG)
 
 ### Обновить (статус первого задания меняем с false на true)
-![update](img/update.png)
+![update](img/update.JPG)
 
 ### Проверяем изменение
-![run.go.3](img/run.go.3.png)
+![run.go.3](img/run.go.3.JPG)
 
 ### Полученные результаты
 ![Answers](img/Answers.png)
